@@ -1,8 +1,8 @@
-package simpleLibraryManagment.src.service;
+package q1_simpleLibraryManagment.src.service;
 
 
-import simpleLibraryManagment.src.entities.Book;
-import simpleLibraryManagment.src.entities.User;
+import q1_simpleLibraryManagment.src.entities.Book;
+import q1_simpleLibraryManagment.src.entities.User;
 
 import java.util.*;
 

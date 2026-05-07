@@ -1,4 +1,4 @@
-Improved:
+**Improved:**
 
 User
 - id: int
@@ -39,7 +39,7 @@ LibraryService:
 - decrement availableCopies
 
 ---------------
-Code as per this:
+**But Code is as per this:**
 
 User
 - id: int

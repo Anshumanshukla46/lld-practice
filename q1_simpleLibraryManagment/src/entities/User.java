@@ -1,4 +1,4 @@
-package simpleLibraryManagment.src.entities;
+package q1_simpleLibraryManagment.src.entities;
 
 import java.util.Objects;
 

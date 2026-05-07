@@ -1,4 +1,4 @@
-package simpleLibraryManagment.src.entities;
+package q1_simpleLibraryManagment.src.entities;
 
 public class Book {
     private int id;

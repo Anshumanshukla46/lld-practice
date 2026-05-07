@@ -1,7 +1,9 @@
+**Beginner LLD concepts**
+
 lld-practice/
 │
 ├── README.md
 │
-├── simpleLibraryManagment/
+├── q1_simpleLibraryManagment/
     ├── class-diagram.md
     ├── src/
