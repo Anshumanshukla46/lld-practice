@@ -1,4 +1,4 @@
-package q3_movieticketbooking.src.entity;
+package q3_movieTicketBooking.src.entity;
 
 import java.time.LocalDateTime;
 import java.util.List;

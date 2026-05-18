@@ -1,6 +1,6 @@
-package q3_movieticketbooking.src.service;
+package q3_movieTicketBooking.src.service;
 
-import q3_movieticketbooking.src.entity.*;
+import q3_movieTicketBooking.src.entity.*;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
